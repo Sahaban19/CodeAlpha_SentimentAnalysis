@@ -1,0 +1,7 @@
+review,textblob_sentiment,textblob_score,vader_sentiment,vader_score
+This product is amazing!,positive,0.7500000000000001,positive,0.6239
+Worst experience ever.,negative,-1.0,negative,-0.6249
+"It’s okay, nothing special.",positive,0.4285714285714286,negative,-0.092
+Absolutely loved it!,positive,0.875,positive,0.6689
+"Terrible service, never again.",negative,-1.0,negative,-0.4767
+"Good, but could be better.",positive,0.6,positive,0.7003
